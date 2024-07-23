@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ahmed/Desktop/Test-technique/mlruns/521796739614111031/4a52ae2ca810454f96eba1068ed915d9/artifacts
+end_time: 1720823856559
+entry_point_name: ''
+experiment_id: '521796739614111031'
+lifecycle_stage: active
+run_id: 4a52ae2ca810454f96eba1068ed915d9
+run_name: fearless-ram-542
+run_uuid: 4a52ae2ca810454f96eba1068ed915d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720823142977
+status: 3
+tags: []
+user_id: ahmed
